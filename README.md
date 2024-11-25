@@ -17,6 +17,8 @@ Estoy en la búsqueda de nuevas oportunidades laborales en el área de **Ciencia
 ## 💻 **Proyectos Trabajados**
 - **[Proyecto 1: Sistema de recomendación de Películas](https://github.com/LautaroVergaraAmodeo97/Film-Lautaro-Vergara-Amodeo)**  
   Análisis detallado de datos utilizando Python y herramientas de visualización como Matplotlib. Para el sistema de recomendación he utilizado K-Means para obtener los mejores resultados.
+- **[Proyecto 2: Sistema de recomendación de Restaurantes](https://github.com/jgutierrezladino/Feastly)**  
+  Sistema de recomendación creado a partir de LLM (Large Language Model).
 
 
 ## 🤝 **Enfoque de Trabajo**
