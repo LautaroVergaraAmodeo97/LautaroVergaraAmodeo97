@@ -25,8 +25,9 @@ Soy una persona a la que le encanta trabajar en equipo, donde la **retroalimenta
 
 
 ## 🌟 **Conecta conmigo**
-- **LinkedIn:** [Tu perfil de LinkedIn aquí](https://www.linkedin.com/in/lautarovergaraamodeo/)
-- **GitHub:** [Tu usuario de GitHub aquí](https://github.com/LautaroVergaraAmodeo97)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lautarovergaraamodeo/)
+- **GitHub:** [Github](https://github.com/LautaroVergaraAmodeo97)
+- **Card:** [Card](lautarovergaraamodeo.carrd.co)
 
 
 
