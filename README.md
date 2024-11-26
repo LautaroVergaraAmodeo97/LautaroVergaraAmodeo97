@@ -3,7 +3,6 @@
 Soy un apasionado de la **Ciencia de Datos**, siempre en constante búsqueda de desafíos analíticos y oportunidades para crecer en este fascinante campo. Mi objetivo es transformar datos en información valiosa que brinde perspectivas significativas y genere impacto.
 
 
-
 ## 🎯 **Objetivo Profesional**
 Estoy en la búsqueda de nuevas oportunidades laborales en el área de **Ciencia de Datos**, donde pueda aplicar y ampliar mis conocimientos mientras colaboro en proyectos desafiantes. Mi motivación está en contribuir con mis habilidades y, al mismo tiempo, continuar aprendiendo y desarrollándome profesionalmente.
 
@@ -13,6 +12,9 @@ Estoy en la búsqueda de nuevas oportunidades laborales en el área de **Ciencia
 - **[Proyecto 2: Sistema de recomendación de Restaurantes](https://github.com/jgutierrezladino/Feastly)**  
   Sistema de recomendación creado a partir de LLM (Large Language Model).
 
+
+## 🤝 **Enfoque de Trabajo**
+Soy una persona a la que le encanta trabajar en equipo, donde la **retroalimentación constante** con mis compañeros es clave para el aprendizaje. Creo firmemente en la colaboración y en el intercambio de ideas para alcanzar objetivos comunes.
 
 ## 🧑‍💻 **Habilidades Técnicas**
 
@@ -24,15 +26,11 @@ Estoy en la búsqueda de nuevas oportunidades laborales en el área de **Ciencia
 
 
 
-## 🤝 **Enfoque de Trabajo**
-Soy una persona a la que le encanta trabajar en equipo, donde la **retroalimentación constante** con mis compañeros es clave para el aprendizaje. Creo firmemente en la colaboración y en el intercambio de ideas para alcanzar objetivos comunes.
-
-
-
 ## 🌟 **Conecta conmigo**
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/lautarovergaraamodeo/)
-- **GitHub:** [Github](https://github.com/LautaroVergaraAmodeo97)
-- **Card:** [Card](lautarovergaraamodeo.carrd.co)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautarovergaraamodeo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](lautarovergaramodeo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/LautaroVergaraAmodeo97)
 
 
 
