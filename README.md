@@ -15,7 +15,7 @@ Estoy en la búsqueda de nuevas oportunidades laborales en el área de **Ciencia
 
 
 ## 🧑‍💻 **Habilidades Técnicas**
-## Tecnologías usadas
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
