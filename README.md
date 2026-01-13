@@ -11,6 +11,8 @@ Estoy en la búsqueda de nuevas oportunidades laborales en el área de **Ciencia
   Análisis detallado de datos utilizando Python y herramientas de visualización como Matplotlib. Para el sistema de recomendación he utilizado K-Means para obtener los mejores resultados.
 - **[Proyecto 2: Sistema de recomendación de Restaurantes](https://github.com/jgutierrezladino/Feastly)**  
   Sistema de recomendación creado a partir de LLM (Large Language Model).
+- **[Proyecto 3: Visualización de datos del BCRA (Banco Central de la República Argentina](https://github.com/LautaroVergaraAmodeo97/Banco_Central_Streamlit)**  
+  Visualización de los datos más importantes que contiene la página oficial de BCRA. Este trabajo personal ha utilizado Web Scraping para la obtención de algunos datos y Streamlit para la visualización.
 
 
 ## 🤝 **Enfoque de Trabajo**
